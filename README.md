@@ -3,6 +3,15 @@
 
 I will use this space to store repositories and documentation links.
 
+#### Personal App reference at playstore
+- [BMI Calculator](https://play.google.com/store/apps/details?id=com.piardilabs.bmicalculator) Simple app developed using Jetpack Compose
+  
+#### Apps reference at playstore (projects that I collaborate) 
+- [Porto Seguro](https://play.google.com/store/apps/details?id=br.com.portoseguro.experienciacliente.mundoporto) Insurance Company app.
+- [Rede](https://play.google.com/store/apps/details?id=br.com.userede)
+- [Hipercard](https://play.google.com/store/apps/details?id=com.hipercard.app) Bank credit card app
+- [Itau](https://play.google.com/store/apps/details?id=com.itau) Bank app
+
 #### Android App Architecture
 [Guide to app architecture](https://developer.android.com/topic/architecture) This guide encompasses best practices and recommended architecture for building robust, high-quality apps.
 - [Compose Samples](https://github.com/android/compose-samples)
@@ -10,6 +19,7 @@ I will use this space to store repositories and documentation links.
 - [Architecture Starter Template](https://github.com/android/architecture-templates)
 - [Architecture Starter Template (multi-module)](https://github.com/android/architecture-templates/tree/multimodule)
 - [Now in Android](https://github.com/android/nowinandroid) is a fully functional Android app built entirely with Kotlin and Jetpack Compose. It follows Android design and development best practices and is intended to be a useful reference for developers.
+
 
 
 <!--
