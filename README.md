@@ -5,7 +5,7 @@ I will use this space to store repositories and documentation links.
 
 #### Personal App reference at playstore
 - [BMI Calculator](https://play.google.com/store/apps/details?id=com.piardilabs.bmicalculator) Simple app developed using Jetpack Compose
-- [Movie App]([https://play.google.com/store/apps/details?id=com.piardilabs.bmicalculator](https://github.com/fpiardi/MovieApp)) Jetpack Compose app to show and search info about movies
+- [Movie App](https://github.com/fpiardi/MovieApp) Jetpack Compose app to show and search info about movies (not deployed to Google Play yet)
   
 #### Apps reference at playstore (projects that I collaborate) 
 - [Porto Seguro](https://play.google.com/store/apps/details?id=br.com.portoseguro.experienciacliente.mundoporto) Insurance Company app.
