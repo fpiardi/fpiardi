@@ -13,6 +13,9 @@ I will use this space to store repositories and documentation links.
 - [Hipercard](https://play.google.com/store/apps/details?id=com.hipercard.app) Bank credit card app
 - [Itau](https://play.google.com/store/apps/details?id=com.itau) Bank app
 
+#### Project Books
+- [Books](https://github.com/fpiardi/ProjectBooks) A mobile app and a containerized application with two services (backend, database)
+
 #### Android App Architecture
 [Guide to app architecture](https://developer.android.com/topic/architecture) This guide encompasses best practices and recommended architecture for building robust, high-quality apps.
 - [Compose Samples](https://github.com/android/compose-samples)
